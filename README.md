@@ -47,3 +47,8 @@ Enter choice:
 - No use of pointers for simplicity.
 - Data is limited to a fixed number of students (based on the `MAX` array size in full code).
 
+---
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="80"/>
+
+
