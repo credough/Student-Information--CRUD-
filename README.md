@@ -34,19 +34,6 @@ Delete Student
 Exit
 Enter choice:
 
-## Files Included
-
-- `main.c` – Source code of the program
-- `students.txt` – Text file used for saving student data
-- `project.cbp` – Code::Blocks project file (optional)
-- `README.md` – Description of the project (this file)
-
-## Notes
-
-- This project was created for learning and practice purposes.
-- No use of pointers for simplicity.
-- Data is limited to a fixed number of students (based on the `MAX` array size in full code).
-
 ---
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="80"/>
